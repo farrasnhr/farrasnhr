@@ -16,13 +16,12 @@
 <a href="https://linkedin.com/in/farrasnhr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="farrasnhr" height="30" width="40" /></a>
 <a href="https://instagram.com/farras.nhr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="farras.nhr" height="30" width="40" /></a>
 <a href="https://github.com/farrasnhr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="farras.nhr" height="30" width="40" /></a>
-<a href="https://x.com/farras_nhr" target="blank"><img align="center" src="https://i.pinimg.com/736x/73/db/02/73db02344af2f927fd361decc424e8b8.jpg" alt="farras.nhr" height="30" width="40" /></a>
 </p>
 
 
 <!--
 **farrasnhr/farrasnhr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<a href="https://x.com/farras_nhr" target="blank"><img align="center" src="https://www.inspirationde.com/wp-content/uploads/2024/08/Twitter-X-Icon-PNG.jpg" alt="farras.nhr" height="30" width="40" /></a>
 Here are some ideas to get you started:
 https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg
 - 🔭 I’m currently working on ...
