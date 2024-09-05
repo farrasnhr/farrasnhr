@@ -2,6 +2,7 @@
 👨🏻‍💻 About Me
 - 🔭 I'm currently taking an online course at Dicoding Indonesia, focusing on the Machine Learning Engineer and Data Scientist learning path.
 - 🎓 I'm a graduate of the Informatics study program.
+- 🏁 Passionate about NASCAR<br>
 
 
 ![Farras's GitHub stats](https://github-readme-stats.vercel.app/api?username=farrasnhr&show_icons=true&theme=radical&rank_icon=github)<br>
