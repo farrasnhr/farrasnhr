@@ -38,6 +38,9 @@
 <a href="https://x.com/farras_nhr" target="blank"><img align="center" src="https://photos.app.goo.gl/rd3hpHJda38R3ioa6" alt="farras.nhr" height="30" width="40" /></a>
 </p>
 
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
 -->
 
 <!--
